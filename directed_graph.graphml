@@ -1,0 +1,421 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="capacity" attr.type="long" for="edge" id="d3" />
+  <key attr.name="function" attr.type="string" for="node" id="d2" />
+  <key attr.name="type" attr.type="string" for="node" id="d1" />
+  <key attr.name="name" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="directed">
+    <node id="ALDOA">
+      <data key="d0">hsa:226 hsa:229 hsa:230</data>
+      <data key="d1">gene</data>
+      <data key="d2">Aldolase A (Fructose-bisphosphate aldolase A)</data>
+    </node>
+    <node id="PPP">
+      <data key="d0">path:hsa00030</data>
+      <data key="d1">map</data>
+      <data key="d2">PPP</data>
+    </node>
+    <node id="map00500">
+      <data key="d0">path:hsa00500</data>
+      <data key="d1">map</data>
+      <data key="d2">map00500</data>
+    </node>
+    <node id="PDHA1">
+      <data key="d0">hsa:5160 hsa:5161 hsa:5162</data>
+      <data key="d1">gene</data>
+      <data key="d2">Pyruvate dehydrogenase E1 component subunit alpha, mitochondrial</data>
+    </node>
+    <node id="LDHAL6A">
+      <data key="d0">hsa:160287 hsa:3939 hsa:3945 hsa:3948 hsa:92483</data>
+      <data key="d1">gene</data>
+      <data key="d2">Lactate dehydrogenase A-like 6A</data>
+    </node>
+    <node id="PKLR">
+      <data key="d0">hsa:5313 hsa:5315</data>
+      <data key="d1">gene</data>
+      <data key="d2">Pyruvate kinase isozymes R/L</data>
+    </node>
+    <node id="ENO1">
+      <data key="d0">hsa:2023 hsa:2026 hsa:2027 hsa:387712</data>
+      <data key="d1">gene</data>
+      <data key="d2">Alpha-enolase</data>
+    </node>
+    <node id="PGAM4">
+      <data key="d0">hsa:441531 hsa:5223 hsa:5224 hsa:669</data>
+      <data key="d1">gene</data>
+      <data key="d2">Phosphoglycerate mutase 4</data>
+    </node>
+    <node id="GAPDH">
+      <data key="d0">hsa:2597 hsa:26330</data>
+      <data key="d1">gene</data>
+      <data key="d2">Glyceraldehyde-3-phosphate dehydrogenase</data>
+    </node>
+    <node id="TPI1">
+      <data key="d0">hsa:7167</data>
+      <data key="d1">gene</data>
+      <data key="d2">Triosephosphate isomerase</data>
+    </node>
+    <node id="PFKL">
+      <data key="d0">hsa:5211 hsa:5213 hsa:5214</data>
+      <data key="d1">gene</data>
+      <data key="d2">ATP-dependent 6-phosphofructokinase, liver type</data>
+    </node>
+    <node id="FBP1">
+      <data key="d0">hsa:2203 hsa:8789</data>
+      <data key="d1">gene</data>
+      <data key="d2">Fructose-1,6-bisphosphatase 1</data>
+    </node>
+    <node id="GPI">
+      <data key="d0">hsa:2821</data>
+      <data key="d1">gene</data>
+      <data key="d2">Glucose-6-phosphate isomerase</data>
+    </node>
+    <node id="PGM1">
+      <data key="d0">hsa:5236 hsa:55276</data>
+      <data key="d1">gene</data>
+      <data key="d2">Phosphoglucomutase-1</data>
+    </node>
+    <node id="GPI_2">
+      <data key="d0">hsa:2821</data>
+      <data key="d1">gene</data>
+      <data key="d2">Glucose-6-phosphate isomerase</data>
+    </node>
+    <node id="HK1">
+      <data key="d0">hsa:3098 hsa:3099 hsa:3101 hsa:80201</data>
+      <data key="d1">gene</data>
+      <data key="d2">Hexokinase-1</data>
+    </node>
+    <node id="GCK">
+      <data key="d0">hsa:2645</data>
+      <data key="d1">gene</data>
+      <data key="d2">Glucokinase</data>
+    </node>
+    <node id="GPI_3">
+      <data key="d0">hsa:2821</data>
+      <data key="d1">gene</data>
+      <data key="d2">Glucose-6-phosphate isomerase</data>
+    </node>
+    <node id="GALM">
+      <data key="d0">hsa:130589</data>
+      <data key="d1">gene</data>
+      <data key="d2">Galactose mutarotase</data>
+    </node>
+    <node id="GCK_2">
+      <data key="d0">hsa:2645</data>
+      <data key="d1">gene</data>
+      <data key="d2">Glucokinase</data>
+    </node>
+    <node id="HK1_2">
+      <data key="d0">hsa:3098 hsa:3099 hsa:3101 hsa:80201</data>
+      <data key="d1">gene</data>
+      <data key="d2">Hexokinase-1</data>
+    </node>
+    <node id="G6PC1">
+      <data key="d0">hsa:2538 hsa:57818 hsa:92579</data>
+      <data key="d1">gene</data>
+      <data key="d2">Glucose-6-phosphatase catalytic subunit</data>
+    </node>
+    <node id="PGK1">
+      <data key="d0">hsa:5230 hsa:5232</data>
+      <data key="d1">gene</data>
+      <data key="d2">Phosphoglycerate kinase 1</data>
+    </node>
+    <node id="PCK1">
+      <data key="d0">hsa:5105 hsa:5106</data>
+      <data key="d1">gene</data>
+      <data key="d2">Phosphoenolpyruvate carboxykinase 1</data>
+    </node>
+    <node id="map00640">
+      <data key="d0">path:hsa00640</data>
+      <data key="d1">map</data>
+      <data key="d2">map00640</data>
+    </node>
+    <node id="BPGM">
+      <data key="d0">hsa:669</data>
+      <data key="d1">gene</data>
+      <data key="d2">Bisphosphoglycerate mutase</data>
+    </node>
+    <node id="BPGM_2">
+      <data key="d0">hsa:669</data>
+      <data key="d1">gene</data>
+      <data key="d2">Bisphosphoglycerate mutase</data>
+    </node>
+    <node id="ADPGK">
+      <data key="d0">hsa:83440</data>
+      <data key="d1">gene</data>
+      <data key="d2">ADP-dependent glucokinase</data>
+    </node>
+    <node id="ADPGK_2">
+      <data key="d0">hsa:83440</data>
+      <data key="d1">gene</data>
+      <data key="d2">ADP-dependent glucokinase</data>
+    </node>
+    <node id="MINPP1">
+      <data key="d0">hsa:9562</data>
+      <data key="d1">gene</data>
+      <data key="d2">Multiple inositol-polyphosphate phosphatase 1</data>
+    </node>
+    <node id="map00710">
+      <data key="d0">path:map00710</data>
+      <data key="d1">map</data>
+      <data key="d2">map00710</data>
+    </node>
+    <node id="Unknown">
+      <data key="d0">Unknown</data>
+      <data key="d1">Unknown</data>
+      <data key="d2">Unknown</data>
+    </node>
+    <edge source="ALDOA" target="GAPDH">
+      <data key="d3">16</data>
+    </edge>
+    <edge source="ALDOA" target="PPP">
+      <data key="d3">16</data>
+    </edge>
+    <edge source="ALDOA" target="TPI1">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="PPP" target="PGAM4">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="PPP" target="PDHA1">
+      <data key="d3">18</data>
+    </edge>
+    <edge source="PPP" target="LDHAL6A">
+      <data key="d3">17</data>
+    </edge>
+    <edge source="PPP" target="PKLR">
+      <data key="d3">16</data>
+    </edge>
+    <edge source="PPP" target="ENO1">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="PPP" target="GAPDH">
+      <data key="d3">17</data>
+    </edge>
+    <edge source="PPP" target="TPI1">
+      <data key="d3">15</data>
+    </edge>
+    <edge source="PPP" target="MINPP1">
+      <data key="d3">19</data>
+    </edge>
+    <edge source="PDHA1" target="PKLR">
+      <data key="d3">13</data>
+    </edge>
+    <edge source="PDHA1" target="LDHAL6A">
+      <data key="d3">18</data>
+    </edge>
+    <edge source="LDHAL6A" target="map00640">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="LDHAL6A" target="PKLR">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="PKLR" target="PCK1">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="PKLR" target="ENO1">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="PKLR" target="Unknown">
+      <data key="d3">19</data>
+    </edge>
+    <edge source="ENO1" target="PGAM4">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="ENO1" target="MINPP1">
+      <data key="d3">18</data>
+    </edge>
+    <edge source="ENO1" target="Unknown">
+      <data key="d3">19</data>
+    </edge>
+    <edge source="PGAM4" target="BPGM">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="PGAM4" target="PGK1">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="PGAM4" target="map00710">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="PGAM4" target="MINPP1">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="GAPDH" target="PGK1">
+      <data key="d3">20</data>
+    </edge>
+    <edge source="GAPDH" target="BPGM_2">
+      <data key="d3">15</data>
+    </edge>
+    <edge source="TPI1" target="GAPDH">
+      <data key="d3">17</data>
+    </edge>
+    <edge source="PFKL" target="ALDOA">
+      <data key="d3">18</data>
+    </edge>
+    <edge source="PFKL" target="GPI">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="FBP1" target="ALDOA">
+      <data key="d3">15</data>
+    </edge>
+    <edge source="FBP1" target="GPI">
+      <data key="d3">16</data>
+    </edge>
+    <edge source="GPI" target="PPP">
+      <data key="d3">15</data>
+    </edge>
+    <edge source="GPI" target="Unknown">
+      <data key="d3">19</data>
+    </edge>
+    <edge source="GPI" target="GCK_2">
+      <data key="d3">20</data>
+    </edge>
+    <edge source="GPI" target="ADPGK">
+      <data key="d3">13</data>
+    </edge>
+    <edge source="GPI" target="HK1_2">
+      <data key="d3">18</data>
+    </edge>
+    <edge source="PGM1" target="map00500">
+      <data key="d3">17</data>
+    </edge>
+    <edge source="PGM1" target="PPP">
+      <data key="d3">17</data>
+    </edge>
+    <edge source="PGM1" target="GPI">
+      <data key="d3">18</data>
+    </edge>
+    <edge source="PGM1" target="GCK_2">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="PGM1" target="ADPGK">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="PGM1" target="HK1_2">
+      <data key="d3">18</data>
+    </edge>
+    <edge source="PGM1" target="G6PC1">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="GPI_2" target="PFKL">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="GPI_2" target="FBP1">
+      <data key="d3">16</data>
+    </edge>
+    <edge source="GPI_2" target="ADPGK_2">
+      <data key="d3">20</data>
+    </edge>
+    <edge source="GPI_2" target="GCK">
+      <data key="d3">20</data>
+    </edge>
+    <edge source="HK1" target="GPI_2">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="HK1" target="GPI_3">
+      <data key="d3">9</data>
+    </edge>
+    <edge source="HK1" target="GALM">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="GCK" target="GPI_3">
+      <data key="d3">15</data>
+    </edge>
+    <edge source="GCK" target="GALM">
+      <data key="d3">13</data>
+    </edge>
+    <edge source="GPI_3" target="PPP">
+      <data key="d3">15</data>
+    </edge>
+    <edge source="GPI_3" target="PGM1">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="GPI_3" target="GCK_2">
+      <data key="d3">13</data>
+    </edge>
+    <edge source="GPI_3" target="HK1_2">
+      <data key="d3">19</data>
+    </edge>
+    <edge source="GPI_3" target="G6PC1">
+      <data key="d3">13</data>
+    </edge>
+    <edge source="GPI_3" target="ADPGK">
+      <data key="d3">13</data>
+    </edge>
+    <edge source="GPI_3" target="ADPGK_2">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="GALM" target="G6PC1">
+      <data key="d3">18</data>
+    </edge>
+    <edge source="GALM" target="HK1_2">
+      <data key="d3">17</data>
+    </edge>
+    <edge source="GALM" target="GCK_2">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="GALM" target="ADPGK">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="GALM" target="ADPGK_2">
+      <data key="d3">15</data>
+    </edge>
+    <edge source="GCK_2" target="PPP">
+      <data key="d3">18</data>
+    </edge>
+    <edge source="GCK_2" target="Unknown">
+      <data key="d3">17</data>
+    </edge>
+    <edge source="HK1_2" target="PPP">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="HK1_2" target="Unknown">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="G6PC1" target="PPP">
+      <data key="d3">18</data>
+    </edge>
+    <edge source="G6PC1" target="GPI">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="PGK1" target="BPGM">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="PGK1" target="BPGM_2">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="PGK1" target="map00710">
+      <data key="d3">18</data>
+    </edge>
+    <edge source="PCK1" target="ENO1">
+      <data key="d3">15</data>
+    </edge>
+    <edge source="PCK1" target="Unknown">
+      <data key="d3">18</data>
+    </edge>
+    <edge source="BPGM_2" target="BPGM">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="ADPGK" target="PPP">
+      <data key="d3">19</data>
+    </edge>
+    <edge source="ADPGK" target="Unknown">
+      <data key="d3">18</data>
+    </edge>
+    <edge source="ADPGK_2" target="Unknown">
+      <data key="d3">19</data>
+    </edge>
+    <edge source="MINPP1" target="BPGM">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="MINPP1" target="BPGM_2">
+      <data key="d3">17</data>
+    </edge>
+    <edge source="map00710" target="BPGM">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="Unknown" target="MINPP1">
+      <data key="d3">19</data>
+    </edge>
+  </graph>
+</graphml>
